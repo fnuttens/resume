@@ -1,0 +1,121 @@
+= Software engineer
+Florent Nuttens <fnuttens@dabao.fr>
+:hide-uri-scheme:
+:imagesdir: images
+
+[.info]
+== !
+
+image:pp.png[role=profil]
+
+=== {author}
+
+[contact]
+* image:phone.svg[role="picto phone"] +33 6 37 39 36 15
+* image:mail.svg[role="picto"] {email}
+* image:internet.svg[role="picto"] https://bio.link/fnuttens
+* Driving licence
+
+=== !
+[atouts]
+* full stack development
+* web platform understanding
+* fluent english
+
+==== Additional skills
+
+* Rust (self-taught)
+* git
+* DevOps
+
+==== Personal qualities
+
+* Rigor
+* Curiosity
+* Independence
+
+==== Areas of interest
+
+* Music
+* FLOSS
+* Cartography
+* Politics
+
+[.chronologie]
+== !
+
+=== Professional experience
+
+==== 2019: Trainer
+*Le Cnam en Grand Est* - Strasbourg (67)
+
+* Tutelage of students for the writing of a thesis and the preparation of a defense
+** subjects supervised: WebAssembly, OpenStreetMap, JAMStack, HTTP/3
+* _Productivity tools_ class (git, CI/CD)
+
+==== 2019: Analyst developer
+*Euro-Information* - Strasbourg (67)
+
+* Integration of pay at table solutions
+** dedicated service that integrates the third party solutions and exposes a generic facade API
+** web application that implements the pay at table features (pay by amount, bill splitting, etc.)
+* Participation in dev communities (DevOps, Android)
+
+....
+C# | SQL Server | OpenShift | Angular | Android | Kafka | Rails
+....
+
+==== 2017 - 2019: IT consultant
+*Euro-Information on behalf of Amaris Consulting* - Strasbourg (67)
+
+* Android SDK for managing consumer profile on retailer apps
+* Consumer enrollment API for partner retailers
+* Personal data anonymization framework (GDPR) for the IS monolith
+* Accounting export service for partners. Use of hexagonal architecture (DDD)
+
+....
+C# | .NET Core | DB2 | Android | Java | Kotlin | React | ELK
+....
+
+=== Personal projects
+
+==== 2021: Sneaker bot
+
+* Scraping of a famous luxury purses manufacturer's website using Node.js and Puppeteer
+* IP rotation for Bright Data proxies
+
+==== 2020: https://github.com/fnuttens/todotxt-rs[todotxt-rs]
+*FLOSS project*
+
+=== Internship and work/study training program
+
+==== 2014 - 2017: R&D developer
+*IRCAD* - Strasbourg (67)
+
+* OGRE 3D graphics engine integration for Sight framework
+** main rendering entities (camera, mesh, material, light source, etc.)
+** advanced rendering techniques (2D/3D negatoscope, volume rendering, etc.)
+* Research of solutions to improve depth perception and scale for AR and volume rendering
+** study of the state of the art
+** choice of illumination models based on perception studies
+** implementation of the selected approaches (Phong lighting, ambient occlusion, importance based volume rendering, etc.)
+
+....
+C++ | Qt | Sight | OpenGL | GLSL | OGRE | Python | CMake
+....
+
+==== 2014 (3 months): .NET web developer
+*ProgiClix* - Montreal (CA)
+
+* Revamp of a poker team management website
+
+=== Training
+
+==== 2014 - 2017: Computer engineering degree
+*Cnam* - Strasbourg (67)
+
+==== 2012 - 2014: Computer science degree
+*Dijon's University Institute of Technology* - Dijon (21)
+
+==== 2009 - 2012: Scientific bachelor's degree
+*Clos Maire high school* - Beaune (21)

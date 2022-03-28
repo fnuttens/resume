@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "index.js",
+  "author": "Florent Nuttens",
+  "license": "MIT",
+  "devDependencies": {
+    "@asciidoctor/core": "^2.2.6",
+    "asciidoctor-pdf": "^1.0.0-alpha.14"
+  }
+}
