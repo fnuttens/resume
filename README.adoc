@@ -1,0 +1,11 @@
+= My resume
+Florent Nuttens
+
+Credits to https://github.com/Mogztter/asciidoctor-web-pdf[asciidoctor-web-pdf].
+
+== How to compile
+
+[source,shell]
+----
+npx asciidoctor-web-pdf resume.adoc --template-require ./template.js
+----
