@@ -13,7 +13,7 @@ image:pp.png[role=profil]
 [contact]
 * image:phone.svg[role="picto phone"] +33 6 37 39 36 15
 * image:mail.svg[role="picto"] {email}
-* image:internet.svg[role="picto"] https://bio.link/fnuttens
+* image:internet.svg[role="picto"] https://blog.dabao.fr
 * Driving licence
 
 === !
