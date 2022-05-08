@@ -6,7 +6,7 @@ Florent Nuttens <fnuttens@dabao.fr>
 [.info]
 == !
 
-image:pp.png[role=profil]
+image:avatar.png[role=profil]
 
 === {author}
 
